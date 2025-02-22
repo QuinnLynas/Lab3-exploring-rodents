@@ -1,7 +1,7 @@
 ---
 title: "Lab 3"
 author: "Quinn Lynas"
-format: gfm
+format: html
 embed-resources: TRUE
 code-tools: TRUE
 echo: TRUE
